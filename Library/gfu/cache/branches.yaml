@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2018-10-12T12:30:15.894+02:00
+  initializedAtString: 2018-10-12T08:08:15.157+02:00
+  localBranches:
+  - name: master
+    tracking: origin/master
+  - name: v1
+    tracking: origin/v1
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
+  - name: origin/v1
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/Alkaidek/2Daction.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - master
+    - v1
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/Alkaidek/2Daction.git
+      trackingBranch: master
+    - name: v1
+      remote:
+        name: origin
+        url: https://github.com/Alkaidek/2Daction.git
+      trackingBranch: v1
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+      - v1
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/Alkaidek/2Daction.git
+        trackingBranch: 
+      - name: v1
+        remote:
+          name: origin
+          url: https://github.com/Alkaidek/2Daction.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/Alkaidek/2Daction.git
