@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - gameover
+  - h1
+  - h2
+  - h3
+  - h4
+  - h5
   layers:
   - Default
   - TransparentFX

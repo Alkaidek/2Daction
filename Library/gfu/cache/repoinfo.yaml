@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-10-12T12:30:15.920+02:00
-  initializedAtString: 2018-10-12T08:05:46.169+02:00
+  lastUpdatedAtString: 2018-10-17T09:20:46.114+02:00
+  initializedAtString: 2018-10-17T09:20:46.114+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/Alkaidek/2Daction.git
@@ -34,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/Alkaidek/2Daction.git
-  currentHead: 10c14af
+  currentHead: 43ac96b
