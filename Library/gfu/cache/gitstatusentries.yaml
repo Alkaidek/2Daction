@@ -12,24 +12,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-10-17T15:11:01.101+02:00
-  initializedAtString: 2018-10-17T09:20:46.154+02:00
+  lastUpdatedAtString: 2018-10-22T15:28:40.858+02:00
+  initializedAtString: 2018-10-22T12:00:24.684+02:00
   entries:
   - path: .vs\2Daction\v15\.suo
     fullPath: C:\Users\blam\Documents\2Daction\.vs\2Daction\v15\.suo
     projectPath: .vs\2Daction\v15\.suo
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: .vs\2Daction\v15\Server\sqlite3\db.lock
-    fullPath: C:\Users\blam\Documents\2Daction\.vs\2Daction\v15\Server\sqlite3\db.lock
-    projectPath: .vs\2Daction\v15\Server\sqlite3\db.lock
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: .vs\2Daction\v15\Server\sqlite3\storage.ide
-    fullPath: C:\Users\blam\Documents\2Daction\.vs\2Daction\v15\Server\sqlite3\storage.ide
-    projectPath: .vs\2Daction\v15\Server\sqlite3\storage.ide
     originalPath: 
     status: 3
     staged: 0
@@ -39,221 +27,41 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: .vs\2Daction\v15\Server\sqlite3\storage.ide-wal
-    fullPath: C:\Users\blam\Documents\2Daction\.vs\2Daction\v15\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\2Daction\v15\Server\sqlite3\storage.ide-wal
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Assembly-CSharp.csproj
     fullPath: C:\Users\blam\Documents\2Daction\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Animations\gameover.controller
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Animations\gameover.controller
-    projectPath: Assets\Animations\gameover.controller
+  - path: Assets\Prefabs\roguelikeSheet_transparent2_244.prefab
+    fullPath: C:\Users\blam\Documents\2Daction\Assets\Prefabs\roguelikeSheet_transparent2_244.prefab
+    projectPath: Assets\Prefabs\roguelikeSheet_transparent2_244.prefab
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Animations\gameover.controller.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Animations\gameover.controller.meta
-    projectPath: Assets\Animations\gameover.controller.meta
+  - path: Assets\Prefabs\roguelikeSheet_transparent2_244.prefab.meta
+    fullPath: C:\Users\blam\Documents\2Daction\Assets\Prefabs\roguelikeSheet_transparent2_244.prefab.meta
+    projectPath: Assets\Prefabs\roguelikeSheet_transparent2_244.prefab.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Animations\gameOverAnim.anim
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Animations\gameOverAnim.anim
-    projectPath: Assets\Animations\gameOverAnim.anim
+  - path: Assets\Prefabs\slime red 1.prefab
+    fullPath: C:\Users\blam\Documents\2Daction\Assets\Prefabs\slime red 1.prefab
+    projectPath: Assets\Prefabs\slime red 1.prefab
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Animations\gameOverAnim.anim.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Animations\gameOverAnim.anim.meta
-    projectPath: Assets\Animations\gameOverAnim.anim.meta
+  - path: Assets\Prefabs\slime red 1.prefab.meta
+    fullPath: C:\Users\blam\Documents\2Daction\Assets\Prefabs\slime red 1.prefab.meta
+    projectPath: Assets\Prefabs\slime red 1.prefab.meta
     originalPath: 
     status: 1
-    staged: 0
-  - path: Assets\Art\attackAnimation.anim
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\attackAnimation.anim
-    projectPath: Assets\Art\attackAnimation.anim
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\attackAnimation.anim.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\attackAnimation.anim.meta
-    projectPath: Assets\Art\attackAnimation.anim.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\attackAnimation2.anim
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\attackAnimation2.anim
-    projectPath: Assets\Art\attackAnimation2.anim
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\attackAnimation2.anim.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\attackAnimation2.anim.meta
-    projectPath: Assets\Art\attackAnimation2.anim.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\gameOver.anim
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\gameOver.anim
-    projectPath: Assets\Art\gameOver.anim
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\gameOver.anim.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\gameOver.anim.meta
-    projectPath: Assets\Art\gameOver.anim.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\gameover.controller
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\gameover.controller
-    projectPath: Assets\Art\gameover.controller
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\gameover.controller.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\gameover.controller.meta
-    projectPath: Assets\Art\gameover.controller.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\gameover.png
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\gameover.png
-    projectPath: Assets\Art\gameover.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\gameover.png.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\gameover.png.meta
-    projectPath: Assets\Art\gameover.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\heart.png
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\heart.png
-    projectPath: Assets\Art\heart.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\heart.png.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\heart.png.meta
-    projectPath: Assets\Art\heart.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\roguelikeSheet_transparent2.png
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\roguelikeSheet_transparent2.png
-    projectPath: Assets\Art\roguelikeSheet_transparent2.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\roguelikeSheet_transparent2.png.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\roguelikeSheet_transparent2.png.meta
-    projectPath: Assets\Art\roguelikeSheet_transparent2.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\roguelikeSheet_transparent2_243.controller
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\roguelikeSheet_transparent2_243.controller
-    projectPath: Assets\Art\roguelikeSheet_transparent2_243.controller
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\roguelikeSheet_transparent2_243.controller.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\roguelikeSheet_transparent2_243.controller.meta
-    projectPath: Assets\Art\roguelikeSheet_transparent2_243.controller.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\roguelikeSheet_transparent2_244.controller
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\roguelikeSheet_transparent2_244.controller
-    projectPath: Assets\Art\roguelikeSheet_transparent2_244.controller
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Art\roguelikeSheet_transparent2_244.controller.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Art\roguelikeSheet_transparent2_244.controller.meta
-    projectPath: Assets\Art\roguelikeSheet_transparent2_244.controller.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Maps\moje.tsx
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Maps\moje.tsx
-    projectPath: Assets\Maps\moje.tsx
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Maps\test_area2.tmx
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Maps\test_area2.tmx
-    projectPath: Assets\Maps\test_area2.tmx
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Maps\test_area4.tmx
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Maps\test_area4.tmx
-    projectPath: Assets\Maps\test_area4.tmx
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Maps\test_area4.tmx.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Maps\test_area4.tmx.meta
-    projectPath: Assets\Maps\test_area4.tmx.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Maps\tree.tsx
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Maps\tree.tsx
-    projectPath: Assets\Maps\tree.tsx
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Prefabs\slime red.prefab
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Prefabs\slime red.prefab
-    projectPath: Assets\Prefabs\slime red.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Prefabs\slime red.prefab.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Prefabs\slime red.prefab.meta
-    projectPath: Assets\Prefabs\slime red.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scenes\Exit.prefab
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scenes\Exit.prefab
-    projectPath: Assets\Scenes\Exit.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scenes\Exit.prefab.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scenes\Exit.prefab.meta
-    projectPath: Assets\Scenes\Exit.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scenes\lvl2.unity
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scenes\lvl2.unity
-    projectPath: Assets\Scenes\lvl2.unity
-    originalPath: 
-    status: 3
     staged: 0
   - path: Assets\Scenes\lvl3.unity
     fullPath: C:\Users\blam\Documents\2Daction\Assets\Scenes\lvl3.unity
     projectPath: Assets\Scenes\lvl3.unity
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scenes\lvl3.unity.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scenes\lvl3.unity.meta
-    projectPath: Assets\Scenes\lvl3.unity.meta
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Assets\Scenes\main.unity
     fullPath: C:\Users\blam\Documents\2Daction\Assets\Scenes\main.unity
@@ -261,201 +69,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Scenes\StartPoint.prefab
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scenes\StartPoint.prefab
-    projectPath: Assets\Scenes\StartPoint.prefab
+  - path: Assets\Scripts\ArrowController.cs
+    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scripts\ArrowController.cs
+    projectPath: Assets\Scripts\ArrowController.cs
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Scenes\StartPoint.prefab.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scenes\StartPoint.prefab.meta
-    projectPath: Assets\Scenes\StartPoint.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scripts\CameraController.cs
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scripts\CameraController.cs
-    projectPath: Assets\Scripts\CameraController.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Scripts\GameOverManager.cs
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scripts\GameOverManager.cs
-    projectPath: Assets\Scripts\GameOverManager.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scripts\GameOverManager.cs.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scripts\GameOverManager.cs.meta
-    projectPath: Assets\Scripts\GameOverManager.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scripts\heartController.cs
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scripts\heartController.cs
-    projectPath: Assets\Scripts\heartController.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scripts\heartController.cs.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scripts\heartController.cs.meta
-    projectPath: Assets\Scripts\heartController.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scripts\HurtPlayer.cs
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scripts\HurtPlayer.cs
-    projectPath: Assets\Scripts\HurtPlayer.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scripts\HurtPlayer.cs.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scripts\HurtPlayer.cs.meta
-    projectPath: Assets\Scripts\HurtPlayer.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scripts\PlayerHealthManager.cs
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scripts\PlayerHealthManager.cs
-    projectPath: Assets\Scripts\PlayerHealthManager.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scripts\PlayerHealthManager.cs.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scripts\PlayerHealthManager.cs.meta
-    projectPath: Assets\Scripts\PlayerHealthManager.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Imported\test_area2.tiled2unity.xml
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Imported\test_area2.tiled2unity.xml
-    projectPath: Assets\Tiled2Unity\Imported\test_area2.tiled2unity.xml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Tiled2Unity\Imported\test_area4.tiled2unity.xml
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Imported\test_area4.tiled2unity.xml
-    projectPath: Assets\Tiled2Unity\Imported\test_area4.tiled2unity.xml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Imported\test_area4.tiled2unity.xml.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Imported\test_area4.tiled2unity.xml.meta
-    projectPath: Assets\Tiled2Unity\Imported\test_area4.tiled2unity.xml.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Materials\tree.mat
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Materials\tree.mat
-    projectPath: Assets\Tiled2Unity\Materials\tree.mat
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Materials\tree.mat.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Materials\tree.mat.meta
-    projectPath: Assets\Tiled2Unity\Materials\tree.mat.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0001.obj
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0001.obj
-    projectPath: Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0001.obj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0004.obj
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0004.obj
-    projectPath: Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0004.obj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0005.obj
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0005.obj
-    projectPath: Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0005.obj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0006.obj
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0006.obj
-    projectPath: Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0006.obj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0007.obj
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0007.obj
-    projectPath: Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0007.obj
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0007.obj.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0007.obj.meta
-    projectPath: Assets\Tiled2Unity\Meshes\test_area2\test_area2_mesh_0007.obj.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Meshes\test_area4.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Meshes\test_area4.meta
-    projectPath: Assets\Tiled2Unity\Meshes\test_area4.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Meshes\test_area4\test_area4_mesh_0001.obj
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Meshes\test_area4\test_area4_mesh_0001.obj
-    projectPath: Assets\Tiled2Unity\Meshes\test_area4\test_area4_mesh_0001.obj
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Meshes\test_area4\test_area4_mesh_0001.obj.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Meshes\test_area4\test_area4_mesh_0001.obj.meta
-    projectPath: Assets\Tiled2Unity\Meshes\test_area4\test_area4_mesh_0001.obj.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Meshes\test_area4\test_area4_mesh_0002.obj
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Meshes\test_area4\test_area4_mesh_0002.obj
-    projectPath: Assets\Tiled2Unity\Meshes\test_area4\test_area4_mesh_0002.obj
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Meshes\test_area4\test_area4_mesh_0002.obj.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Meshes\test_area4\test_area4_mesh_0002.obj.meta
-    projectPath: Assets\Tiled2Unity\Meshes\test_area4\test_area4_mesh_0002.obj.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Prefabs\test_area2.prefab
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Prefabs\test_area2.prefab
-    projectPath: Assets\Tiled2Unity\Prefabs\test_area2.prefab
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Tiled2Unity\Prefabs\test_area4.prefab
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Prefabs\test_area4.prefab
-    projectPath: Assets\Tiled2Unity\Prefabs\test_area4.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Prefabs\test_area4.prefab.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Prefabs\test_area4.prefab.meta
-    projectPath: Assets\Tiled2Unity\Prefabs\test_area4.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Textures\roguelikeSheet_transparent2.png
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Textures\roguelikeSheet_transparent2.png
-    projectPath: Assets\Tiled2Unity\Textures\roguelikeSheet_transparent2.png
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Tiled2Unity\Textures\tree.png
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Textures\tree.png
-    projectPath: Assets\Tiled2Unity\Textures\tree.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tiled2Unity\Textures\tree.png.meta
-    fullPath: C:\Users\blam\Documents\2Daction\Assets\Tiled2Unity\Textures\tree.png.meta
-    projectPath: Assets\Tiled2Unity\Textures\tree.png.meta
+  - path: Assets\Scripts\ArrowController.cs.meta
+    fullPath: C:\Users\blam\Documents\2Daction\Assets\Scripts\ArrowController.cs.meta
+    projectPath: Assets\Scripts\ArrowController.cs.meta
     originalPath: 
     status: 1
     staged: 0
@@ -465,39 +87,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\CurrentLayout.dwlt
-    fullPath: C:\Users\blam\Documents\2Daction\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\EditorInstance.json
     fullPath: C:\Users\blam\Documents\2Daction\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\expandedItems
-    fullPath: C:\Users\blam\Documents\2Daction\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\blam\Documents\2Daction\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
+    status: 1
     staged: 0
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\blam\Documents\2Daction\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\blam\Documents\2Daction\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -519,453 +117,39 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\blam\Documents\2Daction\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\03\03317717a8f367e43a4f65eb7b98492e
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\03\03317717a8f367e43a4f65eb7b98492e
-    projectPath: Library\metadata\03\03317717a8f367e43a4f65eb7b98492e
+  - path: Library\metadata\2e\2e4fb16e737d3fa46a0a1d964203f671
+    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\2e\2e4fb16e737d3fa46a0a1d964203f671
+    projectPath: Library\metadata\2e\2e4fb16e737d3fa46a0a1d964203f671
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\03\03317717a8f367e43a4f65eb7b98492e.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\03\03317717a8f367e43a4f65eb7b98492e.info
-    projectPath: Library\metadata\03\03317717a8f367e43a4f65eb7b98492e.info
+  - path: Library\metadata\2e\2e4fb16e737d3fa46a0a1d964203f671.info
+    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\2e\2e4fb16e737d3fa46a0a1d964203f671.info
+    projectPath: Library\metadata\2e\2e4fb16e737d3fa46a0a1d964203f671.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\06\06c8ae47e4b44fa41be44b57adf8f621
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\06\06c8ae47e4b44fa41be44b57adf8f621
-    projectPath: Library\metadata\06\06c8ae47e4b44fa41be44b57adf8f621
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\06\06c8ae47e4b44fa41be44b57adf8f621.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\06\06c8ae47e4b44fa41be44b57adf8f621.info
-    projectPath: Library\metadata\06\06c8ae47e4b44fa41be44b57adf8f621.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\07\071e2d55a98d60640819dba5cafa0b51
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\07\071e2d55a98d60640819dba5cafa0b51
-    projectPath: Library\metadata\07\071e2d55a98d60640819dba5cafa0b51
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\07\071e2d55a98d60640819dba5cafa0b51.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\07\071e2d55a98d60640819dba5cafa0b51.info
-    projectPath: Library\metadata\07\071e2d55a98d60640819dba5cafa0b51.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\07\074966b23d36aad4fbada3610edc9b25
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\07\074966b23d36aad4fbada3610edc9b25
-    projectPath: Library\metadata\07\074966b23d36aad4fbada3610edc9b25
+  - path: Library\metadata\c4\c4c7ff66dcc92f14f9fc37b860b843a5
+    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\c4\c4c7ff66dcc92f14f9fc37b860b843a5
+    projectPath: Library\metadata\c4\c4c7ff66dcc92f14f9fc37b860b843a5
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\07\074966b23d36aad4fbada3610edc9b25.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\07\074966b23d36aad4fbada3610edc9b25.info
-    projectPath: Library\metadata\07\074966b23d36aad4fbada3610edc9b25.info
+  - path: Library\metadata\c4\c4c7ff66dcc92f14f9fc37b860b843a5.info
+    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\c4\c4c7ff66dcc92f14f9fc37b860b843a5.info
+    projectPath: Library\metadata\c4\c4c7ff66dcc92f14f9fc37b860b843a5.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\07\07e21268f7bd9ab40bc90d29076fbae1
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\07\07e21268f7bd9ab40bc90d29076fbae1
-    projectPath: Library\metadata\07\07e21268f7bd9ab40bc90d29076fbae1
+  - path: Library\metadata\e3\e35eec2c920cbdc42885935623703d02
+    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\e3\e35eec2c920cbdc42885935623703d02
+    projectPath: Library\metadata\e3\e35eec2c920cbdc42885935623703d02
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\07\07e21268f7bd9ab40bc90d29076fbae1.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\07\07e21268f7bd9ab40bc90d29076fbae1.info
-    projectPath: Library\metadata\07\07e21268f7bd9ab40bc90d29076fbae1.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\0c\0ce0e8cb9ddfdb24cbd90551593e4336.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\0c\0ce0e8cb9ddfdb24cbd90551593e4336.info
-    projectPath: Library\metadata\0c\0ce0e8cb9ddfdb24cbd90551593e4336.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\1a\1ae8d9a17c16d6c40b504939f0a8b793
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\1a\1ae8d9a17c16d6c40b504939f0a8b793
-    projectPath: Library\metadata\1a\1ae8d9a17c16d6c40b504939f0a8b793
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\1a\1ae8d9a17c16d6c40b504939f0a8b793.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\1a\1ae8d9a17c16d6c40b504939f0a8b793.info
-    projectPath: Library\metadata\1a\1ae8d9a17c16d6c40b504939f0a8b793.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\1c\1c48791fd6a671d43b93adea8070c825
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\1c\1c48791fd6a671d43b93adea8070c825
-    projectPath: Library\metadata\1c\1c48791fd6a671d43b93adea8070c825
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\22\22d44616fffc8f245959a5dc51dd7973
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\22\22d44616fffc8f245959a5dc51dd7973
-    projectPath: Library\metadata\22\22d44616fffc8f245959a5dc51dd7973
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\22\22d44616fffc8f245959a5dc51dd7973.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\22\22d44616fffc8f245959a5dc51dd7973.info
-    projectPath: Library\metadata\22\22d44616fffc8f245959a5dc51dd7973.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\2d\2d66d71c398dc2840987f78cecde929e
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\2d\2d66d71c398dc2840987f78cecde929e
-    projectPath: Library\metadata\2d\2d66d71c398dc2840987f78cecde929e
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\2d\2d66d71c398dc2840987f78cecde929e.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\2d\2d66d71c398dc2840987f78cecde929e.info
-    projectPath: Library\metadata\2d\2d66d71c398dc2840987f78cecde929e.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\40\40a03a164c1738b47b732b2496af71e5
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\40\40a03a164c1738b47b732b2496af71e5
-    projectPath: Library\metadata\40\40a03a164c1738b47b732b2496af71e5
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\40\40a03a164c1738b47b732b2496af71e5.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\40\40a03a164c1738b47b732b2496af71e5.info
-    projectPath: Library\metadata\40\40a03a164c1738b47b732b2496af71e5.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\4a\4a43dd71667084f46aa77089542c16ff
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\4a\4a43dd71667084f46aa77089542c16ff
-    projectPath: Library\metadata\4a\4a43dd71667084f46aa77089542c16ff
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\4a\4a43dd71667084f46aa77089542c16ff.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\4a\4a43dd71667084f46aa77089542c16ff.info
-    projectPath: Library\metadata\4a\4a43dd71667084f46aa77089542c16ff.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\4d\4dd04391ee1ee104780eff246106c846
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\4d\4dd04391ee1ee104780eff246106c846
-    projectPath: Library\metadata\4d\4dd04391ee1ee104780eff246106c846
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\4d\4dd04391ee1ee104780eff246106c846.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\4d\4dd04391ee1ee104780eff246106c846.info
-    projectPath: Library\metadata\4d\4dd04391ee1ee104780eff246106c846.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\57\577121fadcd31e344a8418a98864aa5e
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\57\577121fadcd31e344a8418a98864aa5e
-    projectPath: Library\metadata\57\577121fadcd31e344a8418a98864aa5e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\57\577121fadcd31e344a8418a98864aa5e.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\57\577121fadcd31e344a8418a98864aa5e.info
-    projectPath: Library\metadata\57\577121fadcd31e344a8418a98864aa5e.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\58\5833663e7783b514c8c89917f8896e88
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\58\5833663e7783b514c8c89917f8896e88
-    projectPath: Library\metadata\58\5833663e7783b514c8c89917f8896e88
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\58\5833663e7783b514c8c89917f8896e88.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\58\5833663e7783b514c8c89917f8896e88.info
-    projectPath: Library\metadata\58\5833663e7783b514c8c89917f8896e88.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\58\58e42967e56cba749bfc2e4774732336.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\58\58e42967e56cba749bfc2e4774732336.info
-    projectPath: Library\metadata\58\58e42967e56cba749bfc2e4774732336.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\5d\5dd88c7fe1fb832429cb09dad94619fb
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\5d\5dd88c7fe1fb832429cb09dad94619fb
-    projectPath: Library\metadata\5d\5dd88c7fe1fb832429cb09dad94619fb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\5d\5dd88c7fe1fb832429cb09dad94619fb.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\5d\5dd88c7fe1fb832429cb09dad94619fb.info
-    projectPath: Library\metadata\5d\5dd88c7fe1fb832429cb09dad94619fb.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\6d\6d853a768d38dc4488285963535108a7
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\6d\6d853a768d38dc4488285963535108a7
-    projectPath: Library\metadata\6d\6d853a768d38dc4488285963535108a7
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\6d\6d853a768d38dc4488285963535108a7.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\6d\6d853a768d38dc4488285963535108a7.info
-    projectPath: Library\metadata\6d\6d853a768d38dc4488285963535108a7.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\70\7073c39525d782e4abc2ecd09e53c784
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\70\7073c39525d782e4abc2ecd09e53c784
-    projectPath: Library\metadata\70\7073c39525d782e4abc2ecd09e53c784
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\70\7073c39525d782e4abc2ecd09e53c784.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\70\7073c39525d782e4abc2ecd09e53c784.info
-    projectPath: Library\metadata\70\7073c39525d782e4abc2ecd09e53c784.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\72\72b855aacb79eaa4f81774325ac459ae
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\72\72b855aacb79eaa4f81774325ac459ae
-    projectPath: Library\metadata\72\72b855aacb79eaa4f81774325ac459ae
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\72\72b855aacb79eaa4f81774325ac459ae.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\72\72b855aacb79eaa4f81774325ac459ae.info
-    projectPath: Library\metadata\72\72b855aacb79eaa4f81774325ac459ae.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\74\74201715b33342c40aa00c6c6097f02e
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\74\74201715b33342c40aa00c6c6097f02e
-    projectPath: Library\metadata\74\74201715b33342c40aa00c6c6097f02e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\74\74201715b33342c40aa00c6c6097f02e.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\74\74201715b33342c40aa00c6c6097f02e.info
-    projectPath: Library\metadata\74\74201715b33342c40aa00c6c6097f02e.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\87\876b2fcadcab4c441b808732a3d60603
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\87\876b2fcadcab4c441b808732a3d60603
-    projectPath: Library\metadata\87\876b2fcadcab4c441b808732a3d60603
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\8e\8ea48be5bb7b61e4db6ddf2777ea2649
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\8e\8ea48be5bb7b61e4db6ddf2777ea2649
-    projectPath: Library\metadata\8e\8ea48be5bb7b61e4db6ddf2777ea2649
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\8e\8ea48be5bb7b61e4db6ddf2777ea2649.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\8e\8ea48be5bb7b61e4db6ddf2777ea2649.info
-    projectPath: Library\metadata\8e\8ea48be5bb7b61e4db6ddf2777ea2649.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\96\96f370b27fc554641815fc6b36a5b96e
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\96\96f370b27fc554641815fc6b36a5b96e
-    projectPath: Library\metadata\96\96f370b27fc554641815fc6b36a5b96e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\96\96f370b27fc554641815fc6b36a5b96e.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\96\96f370b27fc554641815fc6b36a5b96e.info
-    projectPath: Library\metadata\96\96f370b27fc554641815fc6b36a5b96e.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\98\981c649e3fb731f4483d0314d80c82fa
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\98\981c649e3fb731f4483d0314d80c82fa
-    projectPath: Library\metadata\98\981c649e3fb731f4483d0314d80c82fa
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\98\981c649e3fb731f4483d0314d80c82fa.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\98\981c649e3fb731f4483d0314d80c82fa.info
-    projectPath: Library\metadata\98\981c649e3fb731f4483d0314d80c82fa.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\98\988afc472cc6800428d15887b89571a1
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\98\988afc472cc6800428d15887b89571a1
-    projectPath: Library\metadata\98\988afc472cc6800428d15887b89571a1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\98\988afc472cc6800428d15887b89571a1.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\98\988afc472cc6800428d15887b89571a1.info
-    projectPath: Library\metadata\98\988afc472cc6800428d15887b89571a1.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a0\a0830b616d38b4346ab81b3f1564590f
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\a0\a0830b616d38b4346ab81b3f1564590f
-    projectPath: Library\metadata\a0\a0830b616d38b4346ab81b3f1564590f
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\a3\a35b8c1077c49604a99dc252a5124946
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\a3\a35b8c1077c49604a99dc252a5124946
-    projectPath: Library\metadata\a3\a35b8c1077c49604a99dc252a5124946
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a3\a35b8c1077c49604a99dc252a5124946.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\a3\a35b8c1077c49604a99dc252a5124946.info
-    projectPath: Library\metadata\a3\a35b8c1077c49604a99dc252a5124946.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a6\a6ab44cf79ec5674a8580811b09cba80
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\a6\a6ab44cf79ec5674a8580811b09cba80
-    projectPath: Library\metadata\a6\a6ab44cf79ec5674a8580811b09cba80
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\a6\a6ab44cf79ec5674a8580811b09cba80.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\a6\a6ab44cf79ec5674a8580811b09cba80.info
-    projectPath: Library\metadata\a6\a6ab44cf79ec5674a8580811b09cba80.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ae\ae05e72028f777247902d509cb069e72
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\ae\ae05e72028f777247902d509cb069e72
-    projectPath: Library\metadata\ae\ae05e72028f777247902d509cb069e72
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ae\ae05e72028f777247902d509cb069e72.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\ae\ae05e72028f777247902d509cb069e72.info
-    projectPath: Library\metadata\ae\ae05e72028f777247902d509cb069e72.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c1\c1f33fcb043e8a34e98bc9769950a30b
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\c1\c1f33fcb043e8a34e98bc9769950a30b
-    projectPath: Library\metadata\c1\c1f33fcb043e8a34e98bc9769950a30b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c1\c1f33fcb043e8a34e98bc9769950a30b.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\c1\c1f33fcb043e8a34e98bc9769950a30b.info
-    projectPath: Library\metadata\c1\c1f33fcb043e8a34e98bc9769950a30b.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c3\c3b27a7821632eb48a3a8bb5b486ac6d
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\c3\c3b27a7821632eb48a3a8bb5b486ac6d
-    projectPath: Library\metadata\c3\c3b27a7821632eb48a3a8bb5b486ac6d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c3\c3b27a7821632eb48a3a8bb5b486ac6d.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\c3\c3b27a7821632eb48a3a8bb5b486ac6d.info
-    projectPath: Library\metadata\c3\c3b27a7821632eb48a3a8bb5b486ac6d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\cf\cfad0bef2db8bd640a3e0e0775fbb612
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\cf\cfad0bef2db8bd640a3e0e0775fbb612
-    projectPath: Library\metadata\cf\cfad0bef2db8bd640a3e0e0775fbb612
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\cf\cfad0bef2db8bd640a3e0e0775fbb612.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\cf\cfad0bef2db8bd640a3e0e0775fbb612.info
-    projectPath: Library\metadata\cf\cfad0bef2db8bd640a3e0e0775fbb612.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e2\e21ca132007edc846a1fd9b9d3a9e9bd
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\e2\e21ca132007edc846a1fd9b9d3a9e9bd
-    projectPath: Library\metadata\e2\e21ca132007edc846a1fd9b9d3a9e9bd
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e2\e21ca132007edc846a1fd9b9d3a9e9bd.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\e2\e21ca132007edc846a1fd9b9d3a9e9bd.info
-    projectPath: Library\metadata\e2\e21ca132007edc846a1fd9b9d3a9e9bd.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e2\e245e2b7744afc84f90eac8d2c0145d8
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\e2\e245e2b7744afc84f90eac8d2c0145d8
-    projectPath: Library\metadata\e2\e245e2b7744afc84f90eac8d2c0145d8
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e2\e245e2b7744afc84f90eac8d2c0145d8.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\e2\e245e2b7744afc84f90eac8d2c0145d8.info
-    projectPath: Library\metadata\e2\e245e2b7744afc84f90eac8d2c0145d8.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e5\e503b8a9e66c7e349b22c645c79f2fd2
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\e5\e503b8a9e66c7e349b22c645c79f2fd2
-    projectPath: Library\metadata\e5\e503b8a9e66c7e349b22c645c79f2fd2
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e5\e503b8a9e66c7e349b22c645c79f2fd2.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\e5\e503b8a9e66c7e349b22c645c79f2fd2.info
-    projectPath: Library\metadata\e5\e503b8a9e66c7e349b22c645c79f2fd2.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ed\ed052c901f76e994e9df1cb06d9cd796
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\ed\ed052c901f76e994e9df1cb06d9cd796
-    projectPath: Library\metadata\ed\ed052c901f76e994e9df1cb06d9cd796
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\ee\ee8c00ad012d9c94aba78c50f54e1e9f
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\ee\ee8c00ad012d9c94aba78c50f54e1e9f
-    projectPath: Library\metadata\ee\ee8c00ad012d9c94aba78c50f54e1e9f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ee\ee8c00ad012d9c94aba78c50f54e1e9f.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\ee\ee8c00ad012d9c94aba78c50f54e1e9f.info
-    projectPath: Library\metadata\ee\ee8c00ad012d9c94aba78c50f54e1e9f.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f1\f1199544135750d4a9a5e84e7b8006ec
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\f1\f1199544135750d4a9a5e84e7b8006ec
-    projectPath: Library\metadata\f1\f1199544135750d4a9a5e84e7b8006ec
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f1\f1199544135750d4a9a5e84e7b8006ec.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\f1\f1199544135750d4a9a5e84e7b8006ec.info
-    projectPath: Library\metadata\f1\f1199544135750d4a9a5e84e7b8006ec.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f2\f2bb5b25334325f4db390a8b70185828
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\f2\f2bb5b25334325f4db390a8b70185828
-    projectPath: Library\metadata\f2\f2bb5b25334325f4db390a8b70185828
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f2\f2bb5b25334325f4db390a8b70185828.info
-    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\f2\f2bb5b25334325f4db390a8b70185828.info
-    projectPath: Library\metadata\f2\f2bb5b25334325f4db390a8b70185828.info
+  - path: Library\metadata\e3\e35eec2c920cbdc42885935623703d02.info
+    fullPath: C:\Users\blam\Documents\2Daction\Library\metadata\e3\e35eec2c920cbdc42885935623703d02.info
+    projectPath: Library\metadata\e3\e35eec2c920cbdc42885935623703d02.info
     originalPath: 
     status: 1
     staged: 0
@@ -993,35 +177,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    fullPath: C:\Users\blam\Documents\2Daction\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: C:\Users\blam\Documents\2Daction\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\blam\Documents\2Daction\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: ProjectSettings\TagManager.asset
-    fullPath: C:\Users\blam\Documents\2Daction\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Users\blam\Documents\2Daction\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
   - path: Temp\UnityLockfile
     fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityLockfile
@@ -1029,135 +189,27 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-02948aab5837000429090da40aa5d546
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-02948aab5837000429090da40aa5d546
-    projectPath: Temp\UnityTempFile-02948aab5837000429090da40aa5d546
+  - path: Temp\UnityTempFile-5b524e19b82cc8949b2da299fdc93566
+    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-5b524e19b82cc8949b2da299fdc93566
+    projectPath: Temp\UnityTempFile-5b524e19b82cc8949b2da299fdc93566
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-03caab486496154459c5cb578ea2d71f
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-03caab486496154459c5cb578ea2d71f
-    projectPath: Temp\UnityTempFile-03caab486496154459c5cb578ea2d71f
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp\UnityTempFile-088b08bf58edeb941bc32d45a9bc38d3
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-088b08bf58edeb941bc32d45a9bc38d3
-    projectPath: Temp\UnityTempFile-088b08bf58edeb941bc32d45a9bc38d3
+  - path: Temp\UnityTempFile-a582d9dfa38a9cd409e1ed6ea6c74418
+    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-a582d9dfa38a9cd409e1ed6ea6c74418
+    projectPath: Temp\UnityTempFile-a582d9dfa38a9cd409e1ed6ea6c74418
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-1ac0e891325ab0d4883997f3e2540009
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-1ac0e891325ab0d4883997f3e2540009
-    projectPath: Temp\UnityTempFile-1ac0e891325ab0d4883997f3e2540009
+  - path: Temp\UnityTempFile-d347505fc844a534bafb338dac38a955
+    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-d347505fc844a534bafb338dac38a955
+    projectPath: Temp\UnityTempFile-d347505fc844a534bafb338dac38a955
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-27d81397eac45034da76c1dee909b57c
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-27d81397eac45034da76c1dee909b57c
-    projectPath: Temp\UnityTempFile-27d81397eac45034da76c1dee909b57c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-325647408e5398941ae194bec7c01eab
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-325647408e5398941ae194bec7c01eab
-    projectPath: Temp\UnityTempFile-325647408e5398941ae194bec7c01eab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-3300efd7ccbcf6144a9f5e8288f78256
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-3300efd7ccbcf6144a9f5e8288f78256
-    projectPath: Temp\UnityTempFile-3300efd7ccbcf6144a9f5e8288f78256
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-34702f065ec955748b4d9642bf38d55f
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-34702f065ec955748b4d9642bf38d55f
-    projectPath: Temp\UnityTempFile-34702f065ec955748b4d9642bf38d55f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-35f0bef41c838cb40888f9bc14ccf076
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-35f0bef41c838cb40888f9bc14ccf076
-    projectPath: Temp\UnityTempFile-35f0bef41c838cb40888f9bc14ccf076
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp\UnityTempFile-482b2885a65928b47bcdb6d5fead7319
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-482b2885a65928b47bcdb6d5fead7319
-    projectPath: Temp\UnityTempFile-482b2885a65928b47bcdb6d5fead7319
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp\UnityTempFile-4da514bdf762ddd42bfabd694ba087e4
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-4da514bdf762ddd42bfabd694ba087e4
-    projectPath: Temp\UnityTempFile-4da514bdf762ddd42bfabd694ba087e4
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp\UnityTempFile-55114d6d13b1e1e49bdaec6ec63dcef0
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-55114d6d13b1e1e49bdaec6ec63dcef0
-    projectPath: Temp\UnityTempFile-55114d6d13b1e1e49bdaec6ec63dcef0
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp\UnityTempFile-6058e439bb3affb4d9298f5981d2cde8
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-6058e439bb3affb4d9298f5981d2cde8
-    projectPath: Temp\UnityTempFile-6058e439bb3affb4d9298f5981d2cde8
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-687aa155aec522c48b118caa69de4757
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-687aa155aec522c48b118caa69de4757
-    projectPath: Temp\UnityTempFile-687aa155aec522c48b118caa69de4757
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp\UnityTempFile-87c9d937086745b408522f3c6f5c42b8
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-87c9d937086745b408522f3c6f5c42b8
-    projectPath: Temp\UnityTempFile-87c9d937086745b408522f3c6f5c42b8
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp\UnityTempFile-936394e6e22ddcb42b250af630c6737c
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-936394e6e22ddcb42b250af630c6737c
-    projectPath: Temp\UnityTempFile-936394e6e22ddcb42b250af630c6737c
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp\UnityTempFile-9978e1bd377dc3b4d928b41948753a1b
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-9978e1bd377dc3b4d928b41948753a1b
-    projectPath: Temp\UnityTempFile-9978e1bd377dc3b4d928b41948753a1b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-a07f244d8688ea241a416ebdd3cd5a9c
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-a07f244d8688ea241a416ebdd3cd5a9c
-    projectPath: Temp\UnityTempFile-a07f244d8688ea241a416ebdd3cd5a9c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-a89379428eaf1414f96fac13a2b3fb1b
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-a89379428eaf1414f96fac13a2b3fb1b
-    projectPath: Temp\UnityTempFile-a89379428eaf1414f96fac13a2b3fb1b
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp\UnityTempFile-b48d9a5d6bb509749bcaf04e87cd3e90
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-b48d9a5d6bb509749bcaf04e87cd3e90
-    projectPath: Temp\UnityTempFile-b48d9a5d6bb509749bcaf04e87cd3e90
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp\UnityTempFile-ea0ae84a3723a0749bb835e146cd228c
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-ea0ae84a3723a0749bb835e146cd228c
-    projectPath: Temp\UnityTempFile-ea0ae84a3723a0749bb835e146cd228c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-ecca93fe00dec8541a06e597880cc23c
-    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-ecca93fe00dec8541a06e597880cc23c
-    projectPath: Temp\UnityTempFile-ecca93fe00dec8541a06e597880cc23c
+  - path: Temp\UnityTempFile-f335c3ad7a276d84e907c81c2eb1df63
+    fullPath: C:\Users\blam\Documents\2Daction\Temp\UnityTempFile-f335c3ad7a276d84e907c81c2eb1df63
+    projectPath: Temp\UnityTempFile-f335c3ad7a276d84e907c81c2eb1df63
     originalPath: 
     status: 1
     staged: 0
